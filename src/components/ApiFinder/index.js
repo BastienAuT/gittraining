@@ -16,9 +16,6 @@ import Faq from "../Faq";
 import LoadMore from "../LoadMore";
 
 import { simplifyRepos } from "../../utils/repos";
-
-import reposData from "../../data/repo";
-
 import "./styles.scss";
 
 const ApiFinder = () => {
